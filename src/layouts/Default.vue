@@ -6,9 +6,9 @@
     <v-app-bar app>
       <v-toolbar-title>We Collab</v-toolbar-title>
     </v-app-bar>
-    <v-content>
+    <v-main>
       <slot/>
-    </v-content>
+    </v-main>
     <v-footer app>
 
     </v-footer>
